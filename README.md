@@ -18,6 +18,6 @@
 1. [Лабораторная работа 1]()
 2. [Лабораторная работа 2](https://colab.research.google.com/drive/1Dj9uslM2VHxVE1-Ry4NBTOz2kUgi-Lv7?usp=sharing)
 3. [Лабораторная работа 3]()
-4. [Лабораторная работа 4]()
+4. [Лабораторная работа 4](https://github.com/sapperka/TOIB/blob/main/LR4.md)
 
 
