@@ -7,11 +7,12 @@
 Практические занятия:
 
 1. [Практическая работа 1](https://github.com/sapperka/TOIB/blob/main/PZ1.md)
-2. [Практическая работа 2](https://github.com/sapperka/TOIB/blob/main/PZ2.md)
-3. [Практическая работа 3]()
-4. [Практическая работа 4]()
-5. [Практическая работа 5]()
-6. [Практическая работа 6](https://github.com/sapperka/TOIB/tree/main/PZ6)
+2. [Практическая работа 1.5]()
+3. [Практическая работа 2](https://github.com/sapperka/TOIB/blob/main/PZ2.md)
+4. [Практическая работа 3]()
+5. [Практическая работа 4]()
+6. [Практическая работа 5]()
+7. [Практическая работа 6](https://github.com/sapperka/TOIB/tree/main/PZ6)
 
 Лабораторные работы:
 
