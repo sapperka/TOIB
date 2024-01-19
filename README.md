@@ -10,7 +10,7 @@
 2. [Практическая работа 1.5]()
 3. [Практическая работа 2](https://github.com/sapperka/TOIB/blob/main/PZ2.md)
 4. [Практическая работа 3]()
-5. [Практическая работа 4]()
+5. [Практическая работа 4](https://github.com/sapperka/TOIB/blob/main/PZ4.md)
 6. [Практическая работа 5]()
 7. [Практическая работа 6](https://github.com/sapperka/TOIB/tree/main/PZ6)
 
